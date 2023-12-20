@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm passionate about building robust web applicati
 
 ### 🌱 Currently Learning
 
-I'm currently focused on enhancing my skills in [Technology or Framework] and exploring new ways to optimize performance and user experience.
+I'm currently focused on enhancing my skills in [React.js and React Native] and exploring new ways to optimize performance and user experience.
 
 ### 📚 Education
 
