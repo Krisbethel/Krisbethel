@@ -1,4 +1,4 @@
-# [Ezeala Abundance chiwetara]
+# Ezeala Abundance chiwetara
 
 ## MERN Stack Developer | Software Engineer
 
@@ -6,41 +6,43 @@ Welcome to my GitHub profile! I'm passionate about building robust web applicati
 
 ### 🚀 Skills
 
-- **Languages:** JavaScript (Node.js, React.js), HTML, CSS
+- **Languages:** JavaScript, java, C++, C, vb.net
 - **Backend:** Node.js, Express.js
-- **Frontend:** React.js, Redux, HTML5, CSS3
+- **Frontend:** React.js, HTML5, CSS3
 - **Database:** MongoDB, Mongoose, mysql
 - **Tools & Platforms:** Git, GitHub, VS Code, npm, RESTful APIs
-- **Methodologies:** Agile, Scrum
+- **Methodologies:** Agile
+- **Others:** Linux, docker.
 
 ### 💼 Experience
 
-- **[Your Previous Job Title]**
-  - [Company Name]
-  - [Date Started] - [Date Ended]
-  - Brief description of your role and achievements.
+- **IT Support**
+  - Hephzibah Medical Laboratory
+  - 02/2020 - 01/2021
+    - Successfully resolved diverse technical issues as an IT support professional, refining problem-solving skills.
+    - Provided timely and effective assistance, contributing to a seamless and efficient IT environment.
 
 
 
 ### 🌱 Currently Learning
 
-I'm currently focused on enhancing my skills in [React.js and React Native] and exploring new ways to optimize performance and user experience.
+I'm currently focused on enhancing my skills in React.js and React Native and exploring new ways to optimize performance and user experience.
 
 ### 📚 Education
 
-- **[BSC] in [Software Engineering]**
-  - [Babcock University]
-  - [2021 - present]
+- **BSC in Software Engineering**
+  - Babcock University
+  - 2021 - present
 
 ### 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/krisbethel12/)
-- [Portfolio Website](https://krisbethel.showcase.com)
-- [Twitter](https://twitter.com/krisbethel12)
+- LinkedIn(https://www.linkedin.com/in/krisbethel12/)
+- Portfolio Website(https://krisbethel.showcase.com)
+- Twitter(https://twitter.com/krisbethel12)
 
 ### 📫 Contact
 
-Feel free to reach out to me via [abundanceezeala@gmail.com] for collaboration or exciting opportunities!
+Feel free to reach out to me via abundanceezeala@gmail.com for collaboration or exciting opportunities!
 
 ### 🤝 Let's Collaborate
 
