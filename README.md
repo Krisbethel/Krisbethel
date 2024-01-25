@@ -36,7 +36,7 @@ I'm currently focused on enhancing my skills in React.js and React Native and ex
 
 ### 🌐 Connect with Me
 
-- LinkedIn(https://www.linkedin.com/in/krisbethel12/)
+- LinkedIn(https://www.linkedin.com/in/krisbethel/)
 - Portfolio Website(https://krisbethel.showcase.com)
 - Twitter(https://twitter.com/krisbethel12)
 
